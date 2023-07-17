@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance On-the-go</string>
+    <string name="Present">P</string>
+    <string name="Absent">A</string>
+</resources>
